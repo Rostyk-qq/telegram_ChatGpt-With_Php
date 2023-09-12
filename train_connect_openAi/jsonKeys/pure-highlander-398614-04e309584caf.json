@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "pure-highlander-398614",
+  "private_key_id": "04e309584caf590f0c6fc15b011c03bfb3485fa8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCQ3ZgXnK8WBEC0\npyF4lsyPThnfbYYjLkUL0AcvV1Qh4yQm5HyVoO0Ef7Of+i/x+zMc2JN7XMyRrrlD\nqM+YPd3hsiqP3Aq2PAaHaAW0EHhkF8DfD8wPlowi2TlIN4Gz5vcii6k+QuwflrUb\nMBAZAdYYv/Rdgv5od3rHSHS+u+VvGqyCLFiZXpQDskO5VbPXgZhnKEzIpn1KsnNP\nrJAyqRVEnfESZkCZVnZjpgg2kEw6VFbVg+yIDxtU2u6zGkSWJhhfHV0X+1KFXKqd\nDiGxdyK4LVZYIErIEG8tUoXooMLSsF+sG8NplRlahIdZzcRCGCs7NOkuMgSPqzLH\nGjFJHWFLAgMBAAECggEAPO7YQGZJRut3BAWgkIZteIGTZGU/HKEjrbpMq18CJlbS\nKAHHXXCZAWFtfobPj+rnLuTx89uuuEBT8N+aoiCzqXE1cdlOMCTDYkUg0QJ0gTV0\njN6qKIxcWXQhIf0m8zLdFIzGHUgs5YSQnOT0gHBDS5nCAWtN80b+P8B8SpXiBX8C\ntIzF4yEBd6k08CcbEabVoecbRordZJ4ZnnYNUFRO+VJ1+avAsI4Ck6ptYSfxNlRH\nXNk7/+ivU6vxrdp3hhEiSbGtu4nXlx0YMAXxWzUnVeJfBjnMTj1bzW608L9QX2t4\nbpHSfIZ6ozafM401ZBmo94bBtnXVY3hFf5Of4AZ9sQKBgQDEJjzaVnPeCutxSXbO\nMufPxg8D1HoFTlWOKSHiJLSaiSrkRi4ygE/ilqRkIonrxLKAuVityL0JAyVDoO/k\nfs9DhY9H97KTlYUItN/YauHLKzc0HpC0YBHr917Kl1S3l8yC/nMngIfBRO5pKoaE\nVCuOvgNS/9iQfcLdTeRXsCrSPQKBgQC9EXEPAaQR4ujE3ZpnofISGYEsvmbdXYau\n/BXkIyanOC0p/oTRAZ3Py+t5EMyliD9mLM4qNoBFbjCTaPop//es8i8Vd7uOsT4v\nDlRscYVTlbZcsGMeDIW1nLcRHTbcC9g3vo7pc7Hzfhaf9PQRgHXSu0TtyAzbdQT7\n5PbHdExiJwKBgQC7ENScTjL2omdkhXGeuYHG79bGCk/M26ZQi/3alLMBZqvXRO8u\nDp0hNhXVwfLTPaYXiax/IKDYBX32f3gJ7L5yYOAC/MH8am6TnRyWY2ivwKlHNZc/\nzxeIeUSX5bdP2J+cllrwY24U7k6JUZs0fKmF2sWE1KePNcEwGecZkdNk6QKBgHpA\nNOKHJReLqQbiY1xvEp8xbp0H4GtydgvfZChHsk6dvFZTBH5AlVIvgOqfOjQujQ/8\nGLKi2v4J6c7nKhrOL8/cKSWwbc4uPQ8gLOaR4KvTOj9krjJX1n0///9I7JgL8Jra\n1H2PGZlgBjEXqllGvuirvj4iBG5ClB5sRkVhpaIxAoGAF/UQL5en6TliVb+xtxBB\ncp/LWdNrECoLy3KFU1lWE1D+kuLbsu6kQl22ezlJGTY0GoWp9YLYH1auoqO/Vk4x\n0cfjW+SK26B8IKo/HrnWzzXKrn6V3XCvAEk+iH7JzXyIhnN+l9pfEDxLR9HJQ3M9\nNRtbUurLStP1R5NSwuoh1IU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "rostym@pure-highlander-398614.iam.gserviceaccount.com",
+  "client_id": "114149306029202866935",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rostym%40pure-highlander-398614.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
